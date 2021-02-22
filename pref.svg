@@ -91,6 +91,8 @@ font-size: 1.5em;
 
 </style>
 
+<svg viewBox="0 0 400 400" width="400" x="0%" y="3%">
+
 <rect id="outline" width="300" height="300" x="50" y="50"/>
 
 <g id="gridlines">
@@ -151,7 +153,7 @@ font-size: 1.5em;
   <text x="55" y="83">80</text>
 </g>
 
-<text id="title" x="95" y="15"> KSB Preferred Values </text>
+<text id="title" x="95" y="20"> KSB Preferred Values </text>
 
 <g id="axislabel">
     <text x="170" y="45">Flexibility</text>
@@ -176,6 +178,7 @@ font-size: 1.5em;
 <polygon id="Kendal" points="160,160 157,242 231,231 236,163"/>
 <polygon id="Melissa" points="130,130 158,241 217,217 221,178"/>
 
+</svg>
 
 <svg viewBox="0 0 400 400" width="200" x="59%" y="-20%">
 <polygon id="Carley_l" points="150,150 175,225 210,210 265,135"/>
@@ -207,4 +210,5 @@ font-size: 1.5em;
 <use href="#Kendal" x="250" y="0"/>
 <use href="#Melissa" x="280" y="100"/>
 -->
+
 </svg>
