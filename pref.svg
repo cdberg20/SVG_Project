@@ -153,7 +153,7 @@ font-size: 1.5em;
   <text x="55" y="83">80</text>
 </g>
 
-<text id="title" x="95" y="0"> KSB Preferred Values </text>
+<text id="title" x="85" y="0"> KSB Preferred Values </text>
 
 <g id="axislabel">
     <text x="170" y="45">Flexibility</text>
