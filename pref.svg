@@ -71,12 +71,12 @@ fill: crimson;
 
 #Cesar_l {
 fill: #512a44;
-opacity: .8
+opacity: 1
 }
 
 #Kendall_l {
 fill: #014208;
-opacity: 0.6
+opacity: 1
 }
 
 #Melissa_l {
