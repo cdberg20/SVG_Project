@@ -1,4 +1,4 @@
-<svg id="font" height="600" width="1000"
+<svg id="font" height="600" width="800"
   xmlns="http://www.w3.org/2000/svg">
 
 <style type="text/css">
@@ -194,10 +194,10 @@ font-size: 1.5em;
 </svg>
 
 <g id="legend">
-    <text id="Carley_l" x="620" y="210">Carley</text>
-    <text id="Cesar_l" x="620" y="295">Cesar</text>
-    <text id="Kendall_l" x="620" y="368">Kendall</text>
-    <text id="Melissa_l" x="620" y="444">Melissa</text>
+    <text id="Carley_l" x="530" y="210">Carley</text>
+    <text id="Cesar_l" x="530" y="295">Cesar</text>
+    <text id="Kendall_l" x="530" y="368">Kendall</text>
+    <text id="Melissa_l" x="530" y="444">Melissa</text>
 </g>
 <!--
 
