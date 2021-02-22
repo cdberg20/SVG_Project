@@ -1,4 +1,4 @@
-<svg id="font" height="400" width="600"
+<svg id="font" height="1000" width="1000"
   xmlns="http://www.w3.org/2000/svg">
 
 <style type="text/css">
@@ -91,7 +91,7 @@ font-size: 1.5em;
 
 </style>
 
-<svg viewBox="0 0 400 400" width="400" x="0%" y="3%">
+<svg viewBox="0 0 400 400" width="400" x="0%" y="-10%">
 
 <rect id="outline" width="300" height="300" x="50" y="50"/>
 
@@ -180,24 +180,24 @@ font-size: 1.5em;
 
 </svg>
 
-<svg viewBox="0 0 400 400" width="200" x="59%" y="-20%">
+<svg viewBox="0 0 400 400" width="200" x="38%" y="-20%">
 <polygon id="Carley_l" points="150,150 175,225 210,210 265,135"/>
 </svg>
-<svg viewBox="0 0 400 400" width="200" x="59%" y="-8%">
+<svg viewBox="0 0 400 400" width="200" x="38%" y="-13%">
 <polygon id="Cesar_l" points="158,158 167,232 233,233 242,157"/>
 </svg>
-<svg viewBox="0 0 400 400" width="200" x="60%" y="7%">
+<svg viewBox="0 0 400 400" width="200" x="38%" y="-6%">
 <polygon id="Kendall_l" points="160,160 157,242 231,231 236,163"/>
 </svg>
-<svg viewBox="0 0 400 400" width="200" x="62%" y="24%">
+<svg viewBox="0 0 400 400" width="200" x="39%" y="2%">
 <polygon id="Melissa_l" points="130,130 158,241 217,217 221,178"/>
 </svg>
 
 <g id="legend">
-    <text id="Carley_l" x="490" y="108">Carley</text>
-    <text id="Cesar_l" x="490" y="172">Cesar</text>
-    <text id="Kendall_l" x="490" y="231">Kendall</text>
-    <text id="Melissa_l" x="490" y="294">Melissa</text>
+    <text id="Carley_l" x="530" y="295">Carley</text>
+    <text id="Cesar_l" x="530" y="375">Cesar</text>
+    <text id="Kendall_l" x="530" y="445">Kendall</text>
+    <text id="Melissa_l" x="530" y="520">Melissa</text>
 </g>
 <!--
 
