@@ -41,6 +41,13 @@
   font-weight: bold;
   fill: crimson;
   }
+<<<<<<< Updated upstream
+=======
+
+  #new{
+  fill: black;
+  }
+>>>>>>> Stashed changes
 </style>
 
 <rect id="outline" width="300" height="300" x="50" y="50"/>
@@ -124,4 +131,9 @@
 
 <polygon points="161,161 153,246 248,248 216,183"/>
 
+<<<<<<< Updated upstream
+=======
+<svg id="new" viewBox="0 0 400 400" width="200" x="70%" y="20%">
+  <polygon points="161,161 153,246 248,248 216,183" />
+>>>>>>> Stashed changes
 </svg>
