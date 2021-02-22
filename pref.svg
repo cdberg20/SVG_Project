@@ -91,7 +91,7 @@ font-size: 1.5em;
 
 </style>
 
-<svg viewBox="0 0 400 400" width="500" x="0%" y="0%">
+<svg viewBox="0 0 500 400" width="500" x="0%" y="0%">
 
 <rect id="outline" width="300" height="300" x="50" y="50"/>
 
